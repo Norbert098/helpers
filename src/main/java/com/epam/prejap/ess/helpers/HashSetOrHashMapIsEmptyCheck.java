@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Class which check empty methods on collections for maps and sets
  */
-public class HashSetIsEmptyTest {
+public class HashSetOrHashMapIsEmptyCheck {
 
     /**
      * This method check if HashSet is empty
