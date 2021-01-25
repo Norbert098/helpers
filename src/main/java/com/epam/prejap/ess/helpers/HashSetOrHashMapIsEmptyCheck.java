@@ -24,7 +24,7 @@ public class HashSetOrHashMapIsEmptyCheck {
         set.clear();
         System.out.println("After clearing the values from set:");
         System.out.println("Is the set is empty: " + set.isEmpty());
-        //Addition check
+        //Additional check
         System.out.println("Is the set is empty through size method: " + (set.size() == 0));
     }
 
@@ -48,7 +48,7 @@ public class HashSetOrHashMapIsEmptyCheck {
         map.clear();
         System.out.println("After clearing the values from map:");
         System.out.println("Is the map is empty: " + map.isEmpty());
-        //Addition check
+        //Additional check
         System.out.println("Is the map is empty through size method: " + (map.size() == 0));
     }
 
