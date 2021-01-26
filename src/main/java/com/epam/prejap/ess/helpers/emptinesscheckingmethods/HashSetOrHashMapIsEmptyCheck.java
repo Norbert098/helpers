@@ -1,4 +1,4 @@
-package com.epam.prejap.ess.helpers.empty_methods_maps_sets;
+package com.epam.prejap.ess.helpers.emptinesscheckingmethods;
 
 import java.util.HashMap;
 import java.util.HashSet;
